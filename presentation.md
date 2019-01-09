@@ -20,5 +20,3 @@
 ```
 <p> Si tu abandonnes une fois, cela peut devenir une habitude. N’abandonne jamais </p>
 ```
-
-choucroute
