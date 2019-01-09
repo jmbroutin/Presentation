@@ -17,5 +17,8 @@
 3. **Cuisine** du monde entier
 4. **Escape Games** avec mes amis
 
+```
+<p> Si tu abandonnes une fois, cela peut devenir une habitude. N’abandonne jamais </p>
+```
 
-
+choucroute
